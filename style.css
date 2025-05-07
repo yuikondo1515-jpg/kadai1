@@ -1,4 +1,11 @@
-img{
+html{
+    font-size: 100%;
+}
+h1{
+    color: aliceblue;
+    background-color: darkgrey;
+}
+main{
 top: 60px;
 left: 0px;
 width: 1280px;
